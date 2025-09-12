@@ -365,6 +365,12 @@ def show_tag_generator(tracker, assets, manufacturers, countries):
         generate_btn = st.form_submit_button("Generate Tags", type="primary")
         
         if generate_btn:
+            # Clear previous results
+            if 'generated_tags' in st.session_state:
+                del st.session_state.generated_tags
+            if 'asset_data_list' in st.session_state:
+                del st.session_state.asset_data_list
+            
             # Generate multiple tags
             generated_tags = []
             current_assets = assets.copy()
@@ -380,16 +386,16 @@ def show_tag_generator(tracker, assets, manufacturers, countries):
                     "name": f"Asset {tag}",
                     "date_created": datetime.now().isoformat()
                 })
-                
-                # Store in session state for saving
-                st.session_state.generated_tags = generated_tags
-                st.session_state.asset_data_list = current_assets[len(assets):]  # Only new assets
-                
-                st.success(f"Generated {len(generated_tags)} tags!")
-                
-                # Show generated tags
-                for i, tag in enumerate(generated_tags):
-                    st.code(tag)
+            
+            # Store in session state for saving (outside the loop)
+            st.session_state.generated_tags = generated_tags
+            st.session_state.asset_data_list = current_assets[len(assets):]  # Only new assets
+            
+            st.success(f"Generated {len(generated_tags)} tags!")
+            
+            # Show generated tags (outside the loop)
+            for tag in generated_tags:
+                st.code(tag)
     
     # Save/Cancel buttons (outside form)
     if 'generated_tags' in st.session_state:
