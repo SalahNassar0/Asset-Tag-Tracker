@@ -1,0 +1,9 @@
+# GitHub Configuration
+GITHUB_TOKEN=your_github_token_here
+GITHUB_REPO=your-username/asset-tracker
+
+# Instructions:
+# 1. Create a private GitHub repository for your asset data
+# 2. Generate a GitHub Personal Access Token with repo permissions
+# 3. Copy this file to .env and fill in your values
+# 4. Run: streamlit run app.py
