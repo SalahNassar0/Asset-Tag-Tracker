@@ -1,23 +1,142 @@
 [
   {
-    "tag": "TEST-TEST-0001",
-    "country_code": "TEST",
-    "manufacturer_code": "TEST",
-    "name": "TEST #1",
-    "date_created": "2025-09-12T18:47:54.151805"
+    "tag": "EG-EP-0001",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-12T19:09:32.504720"
   },
   {
-    "tag": "TEST2-TEST2-0001",
-    "country_code": "TEST2",
-    "manufacturer_code": "TEST2",
-    "name": "TEST #1",
-    "date_created": "2025-09-12T18:48:05.625403"
+    "tag": "EG-EP-0002",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0002",
+    "date_created": "2025-09-12T19:09:32.504738"
   },
   {
-    "tag": "TEST3-TEST3-0001",
-    "country_code": "TEST3",
-    "manufacturer_code": "TEST3",
-    "name": "TEST #1",
-    "date_created": "2025-09-12T18:48:21.951769"
+    "tag": "EG-EP-0004",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0004",
+    "date_created": "2025-09-12T19:09:32.504745"
+  },
+  {
+    "tag": "EG-EP-0005",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0005",
+    "date_created": "2025-09-12T19:09:32.504751"
+  },
+  {
+    "tag": "EG-EP-0006",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0006",
+    "date_created": "2025-09-12T19:09:32.504756"
+  },
+  {
+    "tag": "EG-EP-0007",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0007",
+    "date_created": "2025-09-12T19:09:32.504760"
+  },
+  {
+    "tag": "EG-EP-0008",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0008",
+    "date_created": "2025-09-12T19:09:32.504765"
+  },
+  {
+    "tag": "EG-EP-0009",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0009",
+    "date_created": "2025-09-12T19:09:32.504771"
+  },
+  {
+    "tag": "EG-EP-0010",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0010",
+    "date_created": "2025-09-12T19:09:32.504776"
+  },
+  {
+    "tag": "EG-EP-0011",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0011",
+    "date_created": "2025-09-12T19:09:32.504782"
+  },
+  {
+    "tag": "EG-EP-0012",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0012",
+    "date_created": "2025-09-12T19:09:32.504787"
+  },
+  {
+    "tag": "EG-EP-0013",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0013",
+    "date_created": "2025-09-12T19:09:32.504793"
+  },
+  {
+    "tag": "EG-EP-0014",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0014",
+    "date_created": "2025-09-12T19:09:32.504799"
+  },
+  {
+    "tag": "EG-EP-0015",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0015",
+    "date_created": "2025-09-12T19:09:32.504805"
+  },
+  {
+    "tag": "EG-EP-0016",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0016",
+    "date_created": "2025-09-12T19:09:32.504810"
+  },
+  {
+    "tag": "EG-EP-0017",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0017",
+    "date_created": "2025-09-12T19:09:32.504813"
+  },
+  {
+    "tag": "EG-EP-0018",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0018",
+    "date_created": "2025-09-12T19:09:32.504817"
+  },
+  {
+    "tag": "EG-EP-0019",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0019",
+    "date_created": "2025-09-12T19:09:32.504821"
+  },
+  {
+    "tag": "EG-EP-0020",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0020",
+    "date_created": "2025-09-12T19:09:32.504824"
+  },
+  {
+    "tag": "EG-EP-0021",
+    "country_code": "EG",
+    "manufacturer_code": "EP",
+    "name": "Imported Asset 0021",
+    "date_created": "2025-09-12T19:09:32.504828"
   }
 ]
