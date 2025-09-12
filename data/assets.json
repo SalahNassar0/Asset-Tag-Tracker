@@ -887,5 +887,607 @@
     "manufacturer_code": "ZE",
     "name": "Imported Asset 0107",
     "date_created": "2025-09-12T21:06:03.913653"
+  },
+  {
+    "tag": "EG-FN-0001",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-12T21:11:10.655314"
+  },
+  {
+    "tag": "EG-FN-0002",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0002",
+    "date_created": "2025-09-12T21:11:10.655332"
+  },
+  {
+    "tag": "EG-FN-0003",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0003",
+    "date_created": "2025-09-12T21:11:10.655344"
+  },
+  {
+    "tag": "EG-FN-0004",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0004",
+    "date_created": "2025-09-12T21:11:10.655355"
+  },
+  {
+    "tag": "EG-FN-0005",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0005",
+    "date_created": "2025-09-12T21:11:10.655365"
+  },
+  {
+    "tag": "EG-FN-0006",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0006",
+    "date_created": "2025-09-12T21:11:10.655376"
+  },
+  {
+    "tag": "EG-FN-0007",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0007",
+    "date_created": "2025-09-12T21:11:10.655386"
+  },
+  {
+    "tag": "EG-FN-0008",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0008",
+    "date_created": "2025-09-12T21:11:10.655397"
+  },
+  {
+    "tag": "EG-FN-0009",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0009",
+    "date_created": "2025-09-12T21:11:10.655408"
+  },
+  {
+    "tag": "EG-FN-0010",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0010",
+    "date_created": "2025-09-12T21:11:10.655418"
+  },
+  {
+    "tag": "EG-FN-0011",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0011",
+    "date_created": "2025-09-12T21:11:10.655429"
+  },
+  {
+    "tag": "EG-FN-0012",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0012",
+    "date_created": "2025-09-12T21:11:10.655440"
+  },
+  {
+    "tag": "EG-FN-0013",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0013",
+    "date_created": "2025-09-12T21:11:10.655451"
+  },
+  {
+    "tag": "EG-FN-0014",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0014",
+    "date_created": "2025-09-12T21:11:10.655462"
+  },
+  {
+    "tag": "EG-FN-0015",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0015",
+    "date_created": "2025-09-12T21:11:10.655473"
+  },
+  {
+    "tag": "EG-FN-0016",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0016",
+    "date_created": "2025-09-12T21:11:10.655484"
+  },
+  {
+    "tag": "EG-FN-0017",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0017",
+    "date_created": "2025-09-12T21:11:10.655495"
+  },
+  {
+    "tag": "EG-FN-0018",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0018",
+    "date_created": "2025-09-12T21:11:10.655506"
+  },
+  {
+    "tag": "EG-FN-0019",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0019",
+    "date_created": "2025-09-12T21:11:10.655517"
+  },
+  {
+    "tag": "EG-FN-0020",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0020",
+    "date_created": "2025-09-12T21:11:10.655527"
+  },
+  {
+    "tag": "EG-FN-0021",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0021",
+    "date_created": "2025-09-12T21:11:10.655538"
+  },
+  {
+    "tag": "EG-FN-0022",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0022",
+    "date_created": "2025-09-12T21:11:10.655549"
+  },
+  {
+    "tag": "EG-FN-0023",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0023",
+    "date_created": "2025-09-12T21:11:10.655578"
+  },
+  {
+    "tag": "EG-FN-0024",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0024",
+    "date_created": "2025-09-12T21:11:10.655600"
+  },
+  {
+    "tag": "EG-FN-0025",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0025",
+    "date_created": "2025-09-12T21:11:10.655618"
+  },
+  {
+    "tag": "EG-FN-0026",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0026",
+    "date_created": "2025-09-12T21:11:10.655646"
+  },
+  {
+    "tag": "EG-FN-0027",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0027",
+    "date_created": "2025-09-12T21:11:10.655668"
+  },
+  {
+    "tag": "EG-FN-0028",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0028",
+    "date_created": "2025-09-12T21:11:10.655689"
+  },
+  {
+    "tag": "EG-FN-0029",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0029",
+    "date_created": "2025-09-12T21:11:10.655702"
+  },
+  {
+    "tag": "EG-FN-0030",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0030",
+    "date_created": "2025-09-12T21:11:10.655713"
+  },
+  {
+    "tag": "EG-FN-0031",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0031",
+    "date_created": "2025-09-12T21:11:10.655724"
+  },
+  {
+    "tag": "EG-FN-0032",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0032",
+    "date_created": "2025-09-12T21:11:10.655735"
+  },
+  {
+    "tag": "EG-FN-0033",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0033",
+    "date_created": "2025-09-12T21:11:10.655747"
+  },
+  {
+    "tag": "EG-FN-0034",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0034",
+    "date_created": "2025-09-12T21:11:10.655758"
+  },
+  {
+    "tag": "EG-FN-0035",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0035",
+    "date_created": "2025-09-12T21:11:10.655769"
+  },
+  {
+    "tag": "EG-FN-0036",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0036",
+    "date_created": "2025-09-12T21:11:10.655780"
+  },
+  {
+    "tag": "EG-FN-0037",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0037",
+    "date_created": "2025-09-12T21:11:10.655791"
+  },
+  {
+    "tag": "EG-FN-0038",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0038",
+    "date_created": "2025-09-12T21:11:10.655803"
+  },
+  {
+    "tag": "EG-FN-0039",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0039",
+    "date_created": "2025-09-12T21:11:10.655814"
+  },
+  {
+    "tag": "EG-FN-0040",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0040",
+    "date_created": "2025-09-12T21:11:10.655826"
+  },
+  {
+    "tag": "EG-FN-0041",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0041",
+    "date_created": "2025-09-12T21:11:10.655837"
+  },
+  {
+    "tag": "EG-FN-0042",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0042",
+    "date_created": "2025-09-12T21:11:10.655849"
+  },
+  {
+    "tag": "EG-FN-0043",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0043",
+    "date_created": "2025-09-12T21:11:10.655860"
+  },
+  {
+    "tag": "EG-FN-0044",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0044",
+    "date_created": "2025-09-12T21:11:10.655872"
+  },
+  {
+    "tag": "EG-FN-0045",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0045",
+    "date_created": "2025-09-12T21:11:10.655886"
+  },
+  {
+    "tag": "EG-FN-0046",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0046",
+    "date_created": "2025-09-12T21:11:10.655898"
+  },
+  {
+    "tag": "EG-FN-0047",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0047",
+    "date_created": "2025-09-12T21:11:10.655910"
+  },
+  {
+    "tag": "EG-FN-0048",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0048",
+    "date_created": "2025-09-12T21:11:10.655922"
+  },
+  {
+    "tag": "EG-FN-0049",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0049",
+    "date_created": "2025-09-12T21:11:10.655934"
+  },
+  {
+    "tag": "EG-FN-0050",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0050",
+    "date_created": "2025-09-12T21:11:10.655946"
+  },
+  {
+    "tag": "EG-FN-0051",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0051",
+    "date_created": "2025-09-12T21:11:10.655958"
+  },
+  {
+    "tag": "EG-FN-0052",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0052",
+    "date_created": "2025-09-12T21:11:10.655970"
+  },
+  {
+    "tag": "EG-FN-0053",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0053",
+    "date_created": "2025-09-12T21:11:10.655982"
+  },
+  {
+    "tag": "EG-FN-0054",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0054",
+    "date_created": "2025-09-12T21:11:10.655994"
+  },
+  {
+    "tag": "EG-FN-0055",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0055",
+    "date_created": "2025-09-12T21:11:10.656007"
+  },
+  {
+    "tag": "EG-FN-0056",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0056",
+    "date_created": "2025-09-12T21:11:10.656019"
+  },
+  {
+    "tag": "EG-FN-0057",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0057",
+    "date_created": "2025-09-12T21:11:10.656031"
+  },
+  {
+    "tag": "EG-FN-0058",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0058",
+    "date_created": "2025-09-12T21:11:10.656043"
+  },
+  {
+    "tag": "EG-FN-0059",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0059",
+    "date_created": "2025-09-12T21:11:10.656055"
+  },
+  {
+    "tag": "EG-FN-0060",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0060",
+    "date_created": "2025-09-12T21:11:10.656068"
+  },
+  {
+    "tag": "EG-FN-0061",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0061",
+    "date_created": "2025-09-12T21:11:10.656080"
+  },
+  {
+    "tag": "EG-FN-0062",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0062",
+    "date_created": "2025-09-12T21:11:10.656092"
+  },
+  {
+    "tag": "EG-FN-0063",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0063",
+    "date_created": "2025-09-12T21:11:10.656105"
+  },
+  {
+    "tag": "EG-FN-0064",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0064",
+    "date_created": "2025-09-12T21:11:10.656117"
+  },
+  {
+    "tag": "EG-FN-0065",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0065",
+    "date_created": "2025-09-12T21:11:10.656130"
+  },
+  {
+    "tag": "EG-FN-0066",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0066",
+    "date_created": "2025-09-12T21:11:10.656143"
+  },
+  {
+    "tag": "EG-FN-0067",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0067",
+    "date_created": "2025-09-12T21:11:10.656156"
+  },
+  {
+    "tag": "EG-FN-0068",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0068",
+    "date_created": "2025-09-12T21:11:10.656168"
+  },
+  {
+    "tag": "EG-FN-0069",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0069",
+    "date_created": "2025-09-12T21:11:10.656181"
+  },
+  {
+    "tag": "EG-FN-0070",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0070",
+    "date_created": "2025-09-12T21:11:10.656194"
+  },
+  {
+    "tag": "EG-FN-0071",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0071",
+    "date_created": "2025-09-12T21:11:10.656207"
+  },
+  {
+    "tag": "EG-FN-0072",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0072",
+    "date_created": "2025-09-12T21:11:10.656220"
+  },
+  {
+    "tag": "EG-FN-0073",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0073",
+    "date_created": "2025-09-12T21:11:10.656233"
+  },
+  {
+    "tag": "EG-FN-0074",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0074",
+    "date_created": "2025-09-12T21:11:10.656246"
+  },
+  {
+    "tag": "EG-FN-0075",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0075",
+    "date_created": "2025-09-12T21:11:10.656260"
+  },
+  {
+    "tag": "EG-FN-0076",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0076",
+    "date_created": "2025-09-12T21:11:10.656273"
+  },
+  {
+    "tag": "EG-FN-0077",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0077",
+    "date_created": "2025-09-12T21:11:10.656286"
+  },
+  {
+    "tag": "EG-FN-0078",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0078",
+    "date_created": "2025-09-12T21:11:10.656299"
+  },
+  {
+    "tag": "EG-FN-0079",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0079",
+    "date_created": "2025-09-12T21:11:10.656312"
+  },
+  {
+    "tag": "EG-FN-0080",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0080",
+    "date_created": "2025-09-12T21:11:10.656325"
+  },
+  {
+    "tag": "EG-FN-0081",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0081",
+    "date_created": "2025-09-12T21:11:10.656339"
+  },
+  {
+    "tag": "EG-FN-0082",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0082",
+    "date_created": "2025-09-12T21:11:10.656352"
+  },
+  {
+    "tag": "EG-FN-0083",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0083",
+    "date_created": "2025-09-12T21:11:10.656366"
+  },
+  {
+    "tag": "EG-FN-0084",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0084",
+    "date_created": "2025-09-12T21:11:10.656379"
+  },
+  {
+    "tag": "EG-FN-0086",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0086",
+    "date_created": "2025-09-12T21:11:10.656393"
+  },
+  {
+    "tag": "EG-FN-0087",
+    "country_code": "EG",
+    "manufacturer_code": "FN",
+    "name": "Imported Asset 0087",
+    "date_created": "2025-09-12T21:11:10.656406"
   }
 ]
