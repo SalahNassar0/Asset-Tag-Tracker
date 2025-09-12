@@ -16,8 +16,14 @@ load_dotenv()
 
 class AssetTracker:
     def __init__(self):
-        self.github_token = os.getenv('GITHUB_TOKEN')
-        self.repo_name = os.getenv('GITHUB_REPO', 'your-username/asset-tracker')
+        # Try to get from Streamlit secrets first, then environment variables
+        try:
+            self.github_token = st.secrets["GITHUB_TOKEN"]
+            self.repo_name = st.secrets["GITHUB_REPO"]
+        except (KeyError, FileNotFoundError):
+            # Fallback to environment variables
+            self.github_token = os.getenv('GITHUB_TOKEN')
+            self.repo_name = os.getenv('GITHUB_REPO', 'your-username/asset-tracker')
         self.data_file = 'assets.json'
         self.manufacturers_file = 'manufacturers.json'
         self.countries_file = 'countries.json'
