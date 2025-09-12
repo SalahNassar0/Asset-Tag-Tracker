@@ -5,5 +5,12 @@
     "manufacturer_code": "TEST",
     "name": "TEST #1",
     "date_created": "2025-09-12T18:47:54.151805"
+  },
+  {
+    "tag": "TEST2-TEST2-0001",
+    "country_code": "TEST2",
+    "manufacturer_code": "TEST2",
+    "name": "TEST #1",
+    "date_created": "2025-09-12T18:48:05.625403"
   }
 ]
