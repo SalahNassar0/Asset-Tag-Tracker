@@ -290,7 +290,7 @@ def main():
     countries = tracker.load_countries()
     
     st.title("🏷️ Asset Tag Generator")
-    st.markdown("Generate and manage asset tags for your Snipe-IT inventory")
+    st.markdown("Generate and manage asset tags for our Khufu inventory")
     
     # Main tabs
     tab1, tab2, tab3 = st.tabs(["Generate Tags", "Manage Lists", "Recent Tags"])
