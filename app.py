@@ -18,8 +18,18 @@ load_dotenv()
 def check_password():
     """Returns `True` if the user entered the correct password."""
     def password_entered():
+        # Get password from secrets or use default
+        try:
+            stored_password = st.secrets["APP_PASSWORD"]
+            # Debug: Show if secret is loaded (remove this later)
+            st.sidebar.success("✅ APP_PASSWORD secret loaded")
+        except (KeyError, FileNotFoundError):
+            stored_password = "khufu2024"  # Default password
+            # Debug: Show if using default (remove this later)
+            st.sidebar.warning("⚠️ Using default password - set APP_PASSWORD secret")
+        
         # Check if password is correct
-        if hmac.compare_digest(st.session_state["password"], st.secrets.get("APP_PASSWORD", "khufu2024")):
+        if hmac.compare_digest(st.session_state["password"], stored_password):
             st.session_state["password_correct"] = True
             del st.session_state["password"]  # Don't store the password
         else:
