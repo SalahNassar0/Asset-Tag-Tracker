@@ -20,10 +20,14 @@ class AssetTracker:
         try:
             self.github_token = st.secrets["GITHUB_TOKEN"]
             self.repo_name = st.secrets["GITHUB_REPO"]
-        except (KeyError, FileNotFoundError):
+            # Debug: Show that secrets were found
+            st.info(f"🔑 Found secrets: Token starts with {self.github_token[:10]}...")
+        except (KeyError, FileNotFoundError) as e:
             # Fallback to environment variables
             self.github_token = os.getenv('GITHUB_TOKEN')
             self.repo_name = os.getenv('GITHUB_REPO', 'your-username/asset-tracker')
+            # Debug: Show that falling back to env vars
+            st.warning(f"⚠️ Secrets not found, using env vars: {str(e)}")
         self.data_file = 'assets.json'
         self.manufacturers_file = 'manufacturers.json'
         self.countries_file = 'countries.json'
