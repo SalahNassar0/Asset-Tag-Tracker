@@ -42,7 +42,7 @@ def check_password():
     # Show password input
     st.markdown("### 🔐 Access Required")
     st.text_input(
-        "Enter password to access the Khufu Asset Tracker:", 
+        "Enter password to access:", 
         type="password", 
         on_change=password_entered, 
         key="password"
