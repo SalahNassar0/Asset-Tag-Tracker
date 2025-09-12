@@ -28,9 +28,9 @@ class AssetTracker:
             self.repo_name = os.getenv('GITHUB_REPO', 'your-username/asset-tracker')
             # Debug: Show that falling back to env vars
             st.warning(f"⚠️ Secrets not found, using env vars: {str(e)}")
-        self.data_file = 'assets.json'
-        self.manufacturers_file = 'manufacturers.json'
-        self.countries_file = 'countries.json'
+        self.data_file = 'data/assets.json'
+        self.manufacturers_file = 'data/manufacturers.json'
+        self.countries_file = 'data/countries.json'
         
         # Initialize GitHub connection
         if self.github_token:
