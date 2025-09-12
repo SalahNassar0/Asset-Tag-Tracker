@@ -138,5 +138,12 @@
     "manufacturer_code": "EP",
     "name": "Imported Asset 0021",
     "date_created": "2025-09-12T19:09:32.504828"
+  },
+  {
+    "tag": "KSA-EP-0001",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0001",
+    "date_created": "2025-09-12T19:10:57.550689"
   }
 ]
