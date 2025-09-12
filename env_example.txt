@@ -2,8 +2,15 @@
 GITHUB_TOKEN=your_github_token_here
 GITHUB_REPO=your-username/asset-tracker
 
-# Instructions:
+# Instructions for LOCAL DEVELOPMENT:
 # 1. Create a private GitHub repository for your asset data
 # 2. Generate a GitHub Personal Access Token with repo permissions
 # 3. Copy this file to .env and fill in your values
 # 4. Run: streamlit run app.py
+
+# Instructions for STREAMLIT CLOUD DEPLOYMENT:
+# 1. Add these secrets in your Streamlit Cloud app settings:
+#    - GITHUB_TOKEN = your_github_token_here
+#    - GITHUB_REPO = your-username/asset-tracker
+#    - APP_PASSWORD = your_secure_password_here
+# 2. Share the APP_PASSWORD with your team for access

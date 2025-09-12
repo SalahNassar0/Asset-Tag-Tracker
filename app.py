@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 import os
+import hmac
 from datetime import datetime
 import qrcode
 from PIL import Image
@@ -13,6 +14,34 @@ from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
+
+def check_password():
+    """Returns `True` if the user entered the correct password."""
+    def password_entered():
+        # Check if password is correct
+        if hmac.compare_digest(st.session_state["password"], st.secrets.get("APP_PASSWORD", "khufu2024")):
+            st.session_state["password_correct"] = True
+            del st.session_state["password"]  # Don't store the password
+        else:
+            st.session_state["password_correct"] = False
+
+    # Return True if password is validated
+    if st.session_state.get("password_correct", False):
+        return True
+
+    # Show password input
+    st.markdown("### 🔐 Access Required")
+    st.text_input(
+        "Enter password to access the Khufu Asset Tracker:", 
+        type="password", 
+        on_change=password_entered, 
+        key="password"
+    )
+    
+    if "password_correct" in st.session_state:
+        st.error("😕 Password incorrect")
+    
+    return False
 
 class AssetTracker:
     def __init__(self):
@@ -277,6 +306,10 @@ def main():
         layout="wide",
         initial_sidebar_state="collapsed"
     )
+    
+    # Check password first
+    if not check_password():
+        st.stop()  # Stop the app if password is incorrect
     
     # Initialize tracker
     if 'tracker' not in st.session_state:
