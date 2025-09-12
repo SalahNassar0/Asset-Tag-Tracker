@@ -361,32 +361,25 @@ def show_tag_generator(tracker, assets, manufacturers, countries):
                 help="How many tags to generate"
             )
         
-        asset_name = st.text_input(
-            "Asset Name", 
-            placeholder="e.g., Zebra Printer, Dell Laptop",
-            help="Enter a descriptive name for the asset"
-        )
         
         generate_btn = st.form_submit_button("Generate Tags", type="primary")
         
         if generate_btn:
-            if not asset_name:
-                st.error("Please enter an asset name")
-            else:
-                # Generate multiple tags
-                generated_tags = []
-                current_assets = assets.copy()
+            # Generate multiple tags
+            generated_tags = []
+            current_assets = assets.copy()
+            
+            for i in range(num_tags):
+                tag = tracker.generate_asset_tag(country_code, manufacturer_code, current_assets)
+                generated_tags.append(tag)
                 
-                for i in range(num_tags):
-                    tag = tracker.generate_asset_tag(country_code, manufacturer_code, current_assets)
-                    generated_tags.append(tag)
-                    current_assets.append({
-                        "tag": tag,
-                        "country_code": country_code,
-                        "manufacturer_code": manufacturer_code,
-                        "name": f"{asset_name} #{i+1}",
-                        "date_created": datetime.now().isoformat()
-                    })
+                current_assets.append({
+                    "tag": tag,
+                    "country_code": country_code,
+                    "manufacturer_code": manufacturer_code,
+                    "name": f"Asset {tag}",
+                    "date_created": datetime.now().isoformat()
+                })
                 
                 # Store in session state for saving
                 st.session_state.generated_tags = generated_tags
@@ -396,11 +389,7 @@ def show_tag_generator(tracker, assets, manufacturers, countries):
                 
                 # Show generated tags
                 for i, tag in enumerate(generated_tags):
-                    col1, col2 = st.columns([1, 3])
-                    with col1:
-                        st.code(tag)
-                    with col2:
-                        st.write(f"**{asset_name} #{i+1}**")
+                    st.code(tag)
     
     # Save/Cancel buttons (outside form)
     if 'generated_tags' in st.session_state:
