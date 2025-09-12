@@ -6,5 +6,9 @@
   {
     "code": "EP",
     "name": "Epson"
+  },
+  {
+    "code": "FN",
+    "name": "Fortinet"
   }
 ]
