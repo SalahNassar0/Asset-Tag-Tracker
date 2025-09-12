@@ -20,14 +20,10 @@ class AssetTracker:
         try:
             self.github_token = st.secrets["GITHUB_TOKEN"]
             self.repo_name = st.secrets["GITHUB_REPO"]
-            # Debug: Show that secrets were found
-            st.info(f"🔑 Found secrets: Token starts with {self.github_token[:10]}...")
-        except (KeyError, FileNotFoundError) as e:
+        except (KeyError, FileNotFoundError):
             # Fallback to environment variables
             self.github_token = os.getenv('GITHUB_TOKEN')
             self.repo_name = os.getenv('GITHUB_REPO', 'your-username/asset-tracker')
-            # Debug: Show that falling back to env vars
-            st.warning(f"⚠️ Secrets not found, using env vars: {str(e)}")
         self.data_file = 'data/assets.json'
         self.manufacturers_file = 'data/manufacturers.json'
         self.countries_file = 'data/countries.json'
@@ -97,7 +93,12 @@ class AssetTracker:
     
     def load_data_from_file(self, filename):
         """Load data from local file"""
-        filepath = os.path.join('data', filename)
+        # Check if filename already includes data/ path
+        if filename.startswith('data/'):
+            filepath = filename
+        else:
+            filepath = os.path.join('data', filename)
+        
         try:
             if os.path.exists(filepath):
                 with open(filepath, 'r', encoding='utf-8') as f:
@@ -109,7 +110,12 @@ class AssetTracker:
     
     def save_data_to_file(self, filename, data):
         """Save data to local file"""
-        filepath = os.path.join('data', filename)
+        # Check if filename already includes data/ path
+        if filename.startswith('data/'):
+            filepath = filename
+        else:
+            filepath = os.path.join('data', filename)
+        
         try:
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
