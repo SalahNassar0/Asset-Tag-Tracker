@@ -18,5 +18,9 @@
   {
     "code": "AP",
     "name": "Apple"
+  },
+  {
+    "code": "HP",
+    "name": "Hewlett Packard"
   }
 ]
