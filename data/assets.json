@@ -3351,5 +3351,19 @@
     "manufacturer_code": "HP",
     "name": "Imported Asset 0014",
     "date_created": "2025-09-13T18:27:20.147180"
+  },
+  {
+    "tag": "EG-DE-0001",
+    "country_code": "EG",
+    "manufacturer_code": "DE",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:29:10.031186"
+  },
+  {
+    "tag": "EG-DE-0002",
+    "country_code": "EG",
+    "manufacturer_code": "DE",
+    "name": "Imported Asset 0002",
+    "date_created": "2025-09-13T18:29:10.031234"
   }
 ]
