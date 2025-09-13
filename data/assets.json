@@ -3456,5 +3456,19 @@
     "manufacturer_code": "XIA",
     "name": "Imported Asset 0001",
     "date_created": "2025-09-13T18:34:55.950402"
+  },
+  {
+    "tag": "EG-PAX-0001",
+    "country_code": "EG",
+    "manufacturer_code": "PAX",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:35:41.758214"
+  },
+  {
+    "tag": "EG-PAX-0002",
+    "country_code": "EG",
+    "manufacturer_code": "PAX",
+    "name": "Imported Asset 0002",
+    "date_created": "2025-09-13T18:35:41.758267"
   }
 ]
