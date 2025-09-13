@@ -26,5 +26,9 @@
   {
     "code": "DE",
     "name": "Dell"
+  },
+  {
+    "code": "LOG",
+    "name": "Logitech"
   }
 ]
