@@ -50,5 +50,9 @@
   {
     "code": "HUW",
     "name": "Huawei"
+  },
+  {
+    "code": "ZTE",
+    "name": "ZTE"
   }
 ]
