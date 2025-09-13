@@ -10,5 +10,9 @@
   {
     "code": "FN",
     "name": "Fortinet"
+  },
+  {
+    "code": "LE",
+    "name": "Lenovo"
   }
 ]
