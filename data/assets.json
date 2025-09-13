@@ -3253,5 +3253,103 @@
     "manufacturer_code": "AP",
     "name": "Imported Asset 0090",
     "date_created": "2025-09-13T18:22:46.981488"
+  },
+  {
+    "tag": "EG-HP-0001",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:27:20.146390"
+  },
+  {
+    "tag": "EG-HP-0002",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0002",
+    "date_created": "2025-09-13T18:27:20.146487"
+  },
+  {
+    "tag": "EG-HP-0003",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0003",
+    "date_created": "2025-09-13T18:27:20.146545"
+  },
+  {
+    "tag": "EG-HP-0004",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0004",
+    "date_created": "2025-09-13T18:27:20.146601"
+  },
+  {
+    "tag": "EG-HP-0005",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0005",
+    "date_created": "2025-09-13T18:27:20.146658"
+  },
+  {
+    "tag": "EG-HP-0006",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0006",
+    "date_created": "2025-09-13T18:27:20.146716"
+  },
+  {
+    "tag": "EG-HP-0007",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0007",
+    "date_created": "2025-09-13T18:27:20.146773"
+  },
+  {
+    "tag": "EG-HP-0008",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0008",
+    "date_created": "2025-09-13T18:27:20.146827"
+  },
+  {
+    "tag": "EG-HP-0009",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0009",
+    "date_created": "2025-09-13T18:27:20.146905"
+  },
+  {
+    "tag": "EG-HP-0010",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0010",
+    "date_created": "2025-09-13T18:27:20.146962"
+  },
+  {
+    "tag": "EG-HP-0011",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0011",
+    "date_created": "2025-09-13T18:27:20.147016"
+  },
+  {
+    "tag": "EG-HP-0012",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0012",
+    "date_created": "2025-09-13T18:27:20.147071"
+  },
+  {
+    "tag": "EG-HP-0013",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0013",
+    "date_created": "2025-09-13T18:27:20.147126"
+  },
+  {
+    "tag": "EG-HP-0014",
+    "country_code": "EG",
+    "manufacturer_code": "HP",
+    "name": "Imported Asset 0014",
+    "date_created": "2025-09-13T18:27:20.147180"
   }
 ]
