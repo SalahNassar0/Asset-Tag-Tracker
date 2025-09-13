@@ -22,5 +22,9 @@
   {
     "code": "HP",
     "name": "Hewlett Packard"
+  },
+  {
+    "code": "DE",
+    "name": "Dell"
   }
 ]
