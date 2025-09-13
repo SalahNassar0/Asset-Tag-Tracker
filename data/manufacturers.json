@@ -34,5 +34,9 @@
   {
     "code": "CAS",
     "name": "Casio"
+  },
+  {
+    "code": "XIA",
+    "name": "Xiaomi"
   }
 ]
