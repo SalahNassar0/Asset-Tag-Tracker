@@ -3442,5 +3442,12 @@
     "manufacturer_code": "LOG",
     "name": "Imported Asset 0011",
     "date_created": "2025-09-13T18:33:02.532536"
+  },
+  {
+    "tag": "EG-CAS-0001",
+    "country_code": "EG",
+    "manufacturer_code": "CAS",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:34:00.279714"
   }
 ]
