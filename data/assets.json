@@ -3526,5 +3526,12 @@
     "manufacturer_code": "HUW",
     "name": "Imported Asset 0005",
     "date_created": "2025-09-13T18:38:04.149390"
+  },
+  {
+    "tag": "EG-ZTE-0001",
+    "country_code": "EG",
+    "manufacturer_code": "ZTE",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:38:37.939380"
   }
 ]
