@@ -3470,5 +3470,12 @@
     "manufacturer_code": "PAX",
     "name": "Imported Asset 0002",
     "date_created": "2025-09-13T18:35:41.758267"
+  },
+  {
+    "tag": "EG-SUN-0001",
+    "country_code": "EG",
+    "manufacturer_code": "SUN",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:36:10.040804"
   }
 ]
