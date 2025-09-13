@@ -3533,5 +3533,12 @@
     "manufacturer_code": "ZTE",
     "name": "Imported Asset 0001",
     "date_created": "2025-09-13T18:38:37.939380"
+  },
+  {
+    "tag": "EG-SCH-0001",
+    "country_code": "EG",
+    "manufacturer_code": "SCH",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:39:06.548944"
   }
 ]
