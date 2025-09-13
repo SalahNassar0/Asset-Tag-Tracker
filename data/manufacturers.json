@@ -14,5 +14,9 @@
   {
     "code": "LE",
     "name": "Lenovo"
+  },
+  {
+    "code": "AP",
+    "name": "Apple"
   }
 ]
