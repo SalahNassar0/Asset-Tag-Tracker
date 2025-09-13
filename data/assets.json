@@ -3365,5 +3365,82 @@
     "manufacturer_code": "DE",
     "name": "Imported Asset 0002",
     "date_created": "2025-09-13T18:29:10.031234"
+  },
+  {
+    "tag": "EG-LOG-0001",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:33:02.532234"
+  },
+  {
+    "tag": "EG-LOG-0002",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0002",
+    "date_created": "2025-09-13T18:33:02.532275"
+  },
+  {
+    "tag": "EG-LOG-0003",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0003",
+    "date_created": "2025-09-13T18:33:02.532305"
+  },
+  {
+    "tag": "EG-LOG-0004",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0004",
+    "date_created": "2025-09-13T18:33:02.532334"
+  },
+  {
+    "tag": "EG-LOG-0005",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0005",
+    "date_created": "2025-09-13T18:33:02.532362"
+  },
+  {
+    "tag": "EG-LOG-0006",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0006",
+    "date_created": "2025-09-13T18:33:02.532389"
+  },
+  {
+    "tag": "EG-LOG-0007",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0007",
+    "date_created": "2025-09-13T18:33:02.532421"
+  },
+  {
+    "tag": "EG-LOG-0008",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0008",
+    "date_created": "2025-09-13T18:33:02.532451"
+  },
+  {
+    "tag": "EG-LOG-0009",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0009",
+    "date_created": "2025-09-13T18:33:02.532480"
+  },
+  {
+    "tag": "EG-LOG-0010",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0010",
+    "date_created": "2025-09-13T18:33:02.532508"
+  },
+  {
+    "tag": "EG-LOG-0011",
+    "country_code": "EG",
+    "manufacturer_code": "LOG",
+    "name": "Imported Asset 0011",
+    "date_created": "2025-09-13T18:33:02.532536"
   }
 ]
