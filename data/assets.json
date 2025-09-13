@@ -3491,5 +3491,40 @@
     "manufacturer_code": "SOY",
     "name": "Imported Asset 0002",
     "date_created": "2025-09-13T18:36:39.352176"
+  },
+  {
+    "tag": "EG-HUW-0001",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:38:04.149253"
+  },
+  {
+    "tag": "EG-HUW-0002",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Imported Asset 0002",
+    "date_created": "2025-09-13T18:38:04.149302"
+  },
+  {
+    "tag": "EG-HUW-0003",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Imported Asset 0003",
+    "date_created": "2025-09-13T18:38:04.149333"
+  },
+  {
+    "tag": "EG-HUW-0004",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Imported Asset 0004",
+    "date_created": "2025-09-13T18:38:04.149362"
+  },
+  {
+    "tag": "EG-HUW-0005",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Imported Asset 0005",
+    "date_created": "2025-09-13T18:38:04.149390"
   }
 ]
