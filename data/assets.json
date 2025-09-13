@@ -3477,5 +3477,19 @@
     "manufacturer_code": "SUN",
     "name": "Imported Asset 0001",
     "date_created": "2025-09-13T18:36:10.040804"
+  },
+  {
+    "tag": "EG-SOY-0001",
+    "country_code": "EG",
+    "manufacturer_code": "SOY",
+    "name": "Imported Asset 0001",
+    "date_created": "2025-09-13T18:36:39.352132"
+  },
+  {
+    "tag": "EG-SOY-0002",
+    "country_code": "EG",
+    "manufacturer_code": "SOY",
+    "name": "Imported Asset 0002",
+    "date_created": "2025-09-13T18:36:39.352176"
   }
 ]
