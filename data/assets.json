@@ -5948,5 +5948,19 @@
     "manufacturer_code": "ZE",
     "name": "Asset EG-ZE-0108",
     "date_created": "2025-09-14T11:11:39.937222"
+  },
+  {
+    "tag": "EG-AP-0091",
+    "country_code": "EG",
+    "manufacturer_code": "AP",
+    "name": "Asset EG-AP-0091",
+    "date_created": "2025-09-14T14:08:29.295883"
+  },
+  {
+    "tag": "EG-AP-0092",
+    "country_code": "EG",
+    "manufacturer_code": "AP",
+    "name": "Asset EG-AP-0092",
+    "date_created": "2025-09-14T14:08:29.296063"
   }
 ]
