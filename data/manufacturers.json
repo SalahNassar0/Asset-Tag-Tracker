@@ -62,5 +62,9 @@
   {
     "code": "YL",
     "name": "Yealink"
+  },
+  {
+    "code": "HIK",
+    "name": "Hikvision"
   }
 ]
