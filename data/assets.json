@@ -5591,5 +5591,61 @@
     "manufacturer_code": "LE",
     "name": "Asset KSA-LE-0008",
     "date_created": "2025-09-14T05:43:42.852213"
+  },
+  {
+    "tag": "KSA-SCH-0001",
+    "country_code": "KSA",
+    "manufacturer_code": "SCH",
+    "name": "Asset KSA-SCH-0001",
+    "date_created": "2025-09-14T05:45:20.625356"
+  },
+  {
+    "tag": "KSA-SCH-0002",
+    "country_code": "KSA",
+    "manufacturer_code": "SCH",
+    "name": "Asset KSA-SCH-0002",
+    "date_created": "2025-09-14T05:45:20.625459"
+  },
+  {
+    "tag": "KSA-SCH-0003",
+    "country_code": "KSA",
+    "manufacturer_code": "SCH",
+    "name": "Asset KSA-SCH-0003",
+    "date_created": "2025-09-14T05:45:20.625549"
+  },
+  {
+    "tag": "KSA-SCH-0004",
+    "country_code": "KSA",
+    "manufacturer_code": "SCH",
+    "name": "Asset KSA-SCH-0004",
+    "date_created": "2025-09-14T05:45:20.625639"
+  },
+  {
+    "tag": "KSA-SCH-0005",
+    "country_code": "KSA",
+    "manufacturer_code": "SCH",
+    "name": "Asset KSA-SCH-0005",
+    "date_created": "2025-09-14T05:45:20.625726"
+  },
+  {
+    "tag": "KSA-SCH-0006",
+    "country_code": "KSA",
+    "manufacturer_code": "SCH",
+    "name": "Asset KSA-SCH-0006",
+    "date_created": "2025-09-14T05:45:20.625817"
+  },
+  {
+    "tag": "KSA-SCH-0007",
+    "country_code": "KSA",
+    "manufacturer_code": "SCH",
+    "name": "Asset KSA-SCH-0007",
+    "date_created": "2025-09-14T05:45:20.625922"
+  },
+  {
+    "tag": "KSA-SCH-0008",
+    "country_code": "KSA",
+    "manufacturer_code": "SCH",
+    "name": "Asset KSA-SCH-0008",
+    "date_created": "2025-09-14T05:45:20.626016"
   }
 ]
