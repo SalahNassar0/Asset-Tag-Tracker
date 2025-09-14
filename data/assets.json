@@ -3876,5 +3876,47 @@
     "manufacturer_code": "FN",
     "name": "Asset KSA-FN-0021",
     "date_created": "2025-09-14T05:36:47.966775"
+  },
+  {
+    "tag": "KSA-FN-0022",
+    "country_code": "KSA",
+    "manufacturer_code": "FN",
+    "name": "Asset KSA-FN-0022",
+    "date_created": "2025-09-14T05:37:09.528456"
+  },
+  {
+    "tag": "KSA-FN-0023",
+    "country_code": "KSA",
+    "manufacturer_code": "FN",
+    "name": "Asset KSA-FN-0023",
+    "date_created": "2025-09-14T05:37:09.528520"
+  },
+  {
+    "tag": "KSA-FN-0024",
+    "country_code": "KSA",
+    "manufacturer_code": "FN",
+    "name": "Asset KSA-FN-0024",
+    "date_created": "2025-09-14T05:37:09.528569"
+  },
+  {
+    "tag": "KSA-FN-0025",
+    "country_code": "KSA",
+    "manufacturer_code": "FN",
+    "name": "Asset KSA-FN-0025",
+    "date_created": "2025-09-14T05:37:09.528610"
+  },
+  {
+    "tag": "KSA-FN-0026",
+    "country_code": "KSA",
+    "manufacturer_code": "FN",
+    "name": "Asset KSA-FN-0026",
+    "date_created": "2025-09-14T05:37:09.528651"
+  },
+  {
+    "tag": "KSA-FN-0027",
+    "country_code": "KSA",
+    "manufacturer_code": "FN",
+    "name": "Asset KSA-FN-0027",
+    "date_created": "2025-09-14T05:37:09.528690"
   }
 ]
