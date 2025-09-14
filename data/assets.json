@@ -3673,5 +3673,61 @@
     "manufacturer_code": "YL",
     "name": "Imported Asset 0018",
     "date_created": "2025-09-13T18:55:56.584690"
+  },
+  {
+    "tag": "KSA-EP-0001",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0001",
+    "date_created": "2025-09-14T05:34:10.022239"
+  },
+  {
+    "tag": "KSA-EP-0002",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0002",
+    "date_created": "2025-09-14T05:34:10.022309"
+  },
+  {
+    "tag": "KSA-EP-0003",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0003",
+    "date_created": "2025-09-14T05:34:10.022361"
+  },
+  {
+    "tag": "KSA-EP-0004",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0004",
+    "date_created": "2025-09-14T05:34:10.022408"
+  },
+  {
+    "tag": "KSA-EP-0005",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0005",
+    "date_created": "2025-09-14T05:34:10.022455"
+  },
+  {
+    "tag": "KSA-EP-0006",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0006",
+    "date_created": "2025-09-14T05:34:10.022502"
+  },
+  {
+    "tag": "KSA-EP-0007",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0007",
+    "date_created": "2025-09-14T05:34:10.022549"
+  },
+  {
+    "tag": "KSA-EP-0008",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0008",
+    "date_created": "2025-09-14T05:34:10.022600"
   }
 ]
