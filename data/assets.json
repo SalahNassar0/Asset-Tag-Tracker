@@ -4023,5 +4023,180 @@
     "manufacturer_code": "FN",
     "name": "Asset KSA-FN-0042",
     "date_created": "2025-09-14T05:37:56.405110"
+  },
+  {
+    "tag": "KSA-HIK-0001",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0001",
+    "date_created": "2025-09-14T05:39:54.648280"
+  },
+  {
+    "tag": "KSA-HIK-0002",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0002",
+    "date_created": "2025-09-14T05:39:54.648329"
+  },
+  {
+    "tag": "KSA-HIK-0003",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0003",
+    "date_created": "2025-09-14T05:39:54.648365"
+  },
+  {
+    "tag": "KSA-HIK-0004",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0004",
+    "date_created": "2025-09-14T05:39:54.648399"
+  },
+  {
+    "tag": "KSA-HIK-0005",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0005",
+    "date_created": "2025-09-14T05:39:54.648433"
+  },
+  {
+    "tag": "KSA-HIK-0006",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0006",
+    "date_created": "2025-09-14T05:39:54.648467"
+  },
+  {
+    "tag": "KSA-HIK-0007",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0007",
+    "date_created": "2025-09-14T05:39:54.648502"
+  },
+  {
+    "tag": "KSA-HIK-0008",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0008",
+    "date_created": "2025-09-14T05:39:54.648537"
+  },
+  {
+    "tag": "KSA-HIK-0009",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0009",
+    "date_created": "2025-09-14T05:39:54.648579"
+  },
+  {
+    "tag": "KSA-HIK-0010",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0010",
+    "date_created": "2025-09-14T05:39:54.648617"
+  },
+  {
+    "tag": "KSA-HIK-0011",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0011",
+    "date_created": "2025-09-14T05:39:54.648653"
+  },
+  {
+    "tag": "KSA-HIK-0012",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0012",
+    "date_created": "2025-09-14T05:39:54.648689"
+  },
+  {
+    "tag": "KSA-HIK-0013",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0013",
+    "date_created": "2025-09-14T05:39:54.648726"
+  },
+  {
+    "tag": "KSA-HIK-0014",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0014",
+    "date_created": "2025-09-14T05:39:54.648764"
+  },
+  {
+    "tag": "KSA-HIK-0015",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0015",
+    "date_created": "2025-09-14T05:39:54.648803"
+  },
+  {
+    "tag": "KSA-HIK-0016",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0016",
+    "date_created": "2025-09-14T05:39:54.648843"
+  },
+  {
+    "tag": "KSA-HIK-0017",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0017",
+    "date_created": "2025-09-14T05:39:54.648882"
+  },
+  {
+    "tag": "KSA-HIK-0018",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0018",
+    "date_created": "2025-09-14T05:39:54.648945"
+  },
+  {
+    "tag": "KSA-HIK-0019",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0019",
+    "date_created": "2025-09-14T05:39:54.648990"
+  },
+  {
+    "tag": "KSA-HIK-0020",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0020",
+    "date_created": "2025-09-14T05:39:54.649032"
+  },
+  {
+    "tag": "KSA-HIK-0021",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0021",
+    "date_created": "2025-09-14T05:39:54.649071"
+  },
+  {
+    "tag": "KSA-HIK-0022",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0022",
+    "date_created": "2025-09-14T05:39:54.649112"
+  },
+  {
+    "tag": "KSA-HIK-0023",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0023",
+    "date_created": "2025-09-14T05:39:54.649153"
+  },
+  {
+    "tag": "KSA-HIK-0024",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0024",
+    "date_created": "2025-09-14T05:39:54.649194"
+  },
+  {
+    "tag": "KSA-HIK-0025",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0025",
+    "date_created": "2025-09-14T05:39:54.649235"
   }
 ]
