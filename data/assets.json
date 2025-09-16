@@ -5983,5 +5983,12 @@
     "manufacturer_code": "ZE",
     "name": "Asset KSA-ZE-0045",
     "date_created": "2025-09-16T12:30:58.080970"
+  },
+  {
+    "tag": "KSA-LE-0009",
+    "country_code": "KSA",
+    "manufacturer_code": "LE",
+    "name": "Asset KSA-LE-0009",
+    "date_created": "2025-09-16T12:41:09.088254"
   }
 ]
