@@ -5962,5 +5962,26 @@
     "manufacturer_code": "AP",
     "name": "Asset EG-AP-0092",
     "date_created": "2025-09-14T14:08:29.296063"
+  },
+  {
+    "tag": "KSA-ZE-0043",
+    "country_code": "KSA",
+    "manufacturer_code": "ZE",
+    "name": "Asset KSA-ZE-0043",
+    "date_created": "2025-09-16T12:30:58.080690"
+  },
+  {
+    "tag": "KSA-ZE-0044",
+    "country_code": "KSA",
+    "manufacturer_code": "ZE",
+    "name": "Asset KSA-ZE-0044",
+    "date_created": "2025-09-16T12:30:58.080843"
+  },
+  {
+    "tag": "KSA-ZE-0045",
+    "country_code": "KSA",
+    "manufacturer_code": "ZE",
+    "name": "Asset KSA-ZE-0045",
+    "date_created": "2025-09-16T12:30:58.080970"
   }
 ]
