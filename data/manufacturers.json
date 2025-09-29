@@ -90,5 +90,9 @@
   {
     "code": "OP",
     "name": "Opal"
+  },
+  {
+    "code": "SOL",
+    "name": "SoyeaLink"
   }
 ]
