@@ -98,5 +98,9 @@
   {
     "code": "SYX",
     "name": "Syinix"
+  },
+  {
+    "code": "HAI",
+    "name": "Haier"
   }
 ]
