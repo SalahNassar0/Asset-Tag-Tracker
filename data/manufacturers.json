@@ -74,5 +74,9 @@
   {
     "code": "CON",
     "name": "Contex"
+  },
+  {
+    "code": "CIS",
+    "name": "Cisco"
   }
 ]
