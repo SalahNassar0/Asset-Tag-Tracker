@@ -78,5 +78,9 @@
   {
     "code": "CIS",
     "name": "Cisco"
+  },
+  {
+    "code": "DL",
+    "name": "D-Link"
   }
 ]
