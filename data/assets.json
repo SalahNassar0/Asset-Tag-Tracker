@@ -7467,5 +7467,12 @@
     "manufacturer_code": "HUW",
     "name": "Asset EG-HUW-0012",
     "date_created": "2025-09-29T08:56:55.320914"
+  },
+  {
+    "tag": "EG-DL-0001",
+    "country_code": "EG",
+    "manufacturer_code": "DL",
+    "name": "Asset EG-DL-0001",
+    "date_created": "2025-09-29T08:57:12.798676"
   }
 ]
