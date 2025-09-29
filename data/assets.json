@@ -8027,5 +8027,12 @@
     "manufacturer_code": "SOL",
     "name": "Asset EG-SOL-0001",
     "date_created": "2025-09-29T09:06:33.192560"
+  },
+  {
+    "tag": "EG-SCH-0027",
+    "country_code": "EG",
+    "manufacturer_code": "SCH",
+    "name": "Asset EG-SCH-0027",
+    "date_created": "2025-09-29T09:16:28.514560"
   }
 ]
