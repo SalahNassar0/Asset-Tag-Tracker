@@ -7607,5 +7607,19 @@
     "manufacturer_code": "HIK",
     "name": "Asset EG-HIK-0193",
     "date_created": "2025-09-29T08:57:57.323239"
+  },
+  {
+    "tag": "EG-VE-0001",
+    "country_code": "EG",
+    "manufacturer_code": "VE",
+    "name": "Asset EG-VE-0001",
+    "date_created": "2025-09-29T08:58:30.653193"
+  },
+  {
+    "tag": "EG-VE-0002",
+    "country_code": "EG",
+    "manufacturer_code": "VE",
+    "name": "Asset EG-VE-0002",
+    "date_created": "2025-09-29T08:58:30.653409"
   }
 ]
