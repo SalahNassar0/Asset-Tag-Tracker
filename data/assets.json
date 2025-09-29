@@ -6634,5 +6634,19 @@
     "manufacturer_code": "TOP",
     "name": "Asset EG-TOP-0004",
     "date_created": "2025-09-29T08:37:27.344323"
+  },
+  {
+    "tag": "EG-HUW-0007",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0007",
+    "date_created": "2025-09-29T08:37:46.693356"
+  },
+  {
+    "tag": "EG-HUW-0008",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0008",
+    "date_created": "2025-09-29T08:37:46.693477"
   }
 ]
