@@ -6361,5 +6361,12 @@
     "manufacturer_code": "HIK",
     "name": "Asset EG-HIK-0048",
     "date_created": "2025-09-29T07:10:09.096595"
+  },
+  {
+    "tag": "EG-LE-0163",
+    "country_code": "EG",
+    "manufacturer_code": "LE",
+    "name": "Asset EG-LE-0163",
+    "date_created": "2025-09-29T07:12:24.910900"
   }
 ]
