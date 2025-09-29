@@ -7026,5 +7026,19 @@
     "manufacturer_code": "HIK",
     "name": "Asset EG-HIK-0127",
     "date_created": "2025-09-29T08:44:54.981302"
+  },
+  {
+    "tag": "EG-ZTE-0004",
+    "country_code": "EG",
+    "manufacturer_code": "ZTE",
+    "name": "Asset EG-ZTE-0004",
+    "date_created": "2025-09-29T08:45:08.617740"
+  },
+  {
+    "tag": "EG-ZTE-0005",
+    "country_code": "EG",
+    "manufacturer_code": "ZTE",
+    "name": "Asset EG-ZTE-0005",
+    "date_created": "2025-09-29T08:45:08.617970"
   }
 ]
