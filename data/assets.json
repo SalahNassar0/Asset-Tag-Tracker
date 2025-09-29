@@ -8692,5 +8692,19 @@
     "manufacturer_code": "CIS",
     "name": "Asset EG-CIS-0005",
     "date_created": "2025-09-29T09:26:09.369022"
+  },
+  {
+    "tag": "EG-HAI-0001",
+    "country_code": "EG",
+    "manufacturer_code": "HAI",
+    "name": "Asset EG-HAI-0001",
+    "date_created": "2025-09-29T09:26:55.956101"
+  },
+  {
+    "tag": "EG-HAI-0002",
+    "country_code": "EG",
+    "manufacturer_code": "HAI",
+    "name": "Asset EG-HAI-0002",
+    "date_created": "2025-09-29T09:26:55.956405"
   }
 ]
