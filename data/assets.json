@@ -8433,5 +8433,19 @@
     "manufacturer_code": "HUW",
     "name": "Asset EG-HUW-0014",
     "date_created": "2025-09-29T09:21:37.353839"
+  },
+  {
+    "tag": "EG-OP-0003",
+    "country_code": "EG",
+    "manufacturer_code": "OP",
+    "name": "Asset EG-OP-0003",
+    "date_created": "2025-09-29T09:21:48.431101"
+  },
+  {
+    "tag": "EG-OP-0004",
+    "country_code": "EG",
+    "manufacturer_code": "OP",
+    "name": "Asset EG-OP-0004",
+    "date_created": "2025-09-29T09:21:48.431342"
   }
 ]
