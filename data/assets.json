@@ -6781,5 +6781,12 @@
     "manufacturer_code": "CON",
     "name": "Asset EG-CON-0002",
     "date_created": "2025-09-29T08:41:34.536998"
+  },
+  {
+    "tag": "EG-HUW-0009",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0009",
+    "date_created": "2025-09-29T08:41:53.849097"
   }
 ]
