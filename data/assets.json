@@ -8006,5 +8006,12 @@
     "manufacturer_code": "SCH",
     "name": "Asset EG-SCH-0026",
     "date_created": "2025-09-29T09:05:52.504287"
+  },
+  {
+    "tag": "EG-LE-0165",
+    "country_code": "EG",
+    "manufacturer_code": "LE",
+    "name": "Asset EG-LE-0165",
+    "date_created": "2025-09-29T09:06:04.858018"
   }
 ]
