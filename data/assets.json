@@ -6130,5 +6130,236 @@
     "manufacturer_code": "TOP",
     "name": "Asset EG-TOP-0002",
     "date_created": "2025-09-29T07:05:02.727201"
+  },
+  {
+    "tag": "EG-HIK-0016",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0016",
+    "date_created": "2025-09-29T07:10:09.091683"
+  },
+  {
+    "tag": "EG-HIK-0017",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0017",
+    "date_created": "2025-09-29T07:10:09.091924"
+  },
+  {
+    "tag": "EG-HIK-0018",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0018",
+    "date_created": "2025-09-29T07:10:09.092086"
+  },
+  {
+    "tag": "EG-HIK-0019",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0019",
+    "date_created": "2025-09-29T07:10:09.092237"
+  },
+  {
+    "tag": "EG-HIK-0020",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0020",
+    "date_created": "2025-09-29T07:10:09.092381"
+  },
+  {
+    "tag": "EG-HIK-0021",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0021",
+    "date_created": "2025-09-29T07:10:09.092514"
+  },
+  {
+    "tag": "EG-HIK-0022",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0022",
+    "date_created": "2025-09-29T07:10:09.092653"
+  },
+  {
+    "tag": "EG-HIK-0023",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0023",
+    "date_created": "2025-09-29T07:10:09.092785"
+  },
+  {
+    "tag": "EG-HIK-0024",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0024",
+    "date_created": "2025-09-29T07:10:09.092939"
+  },
+  {
+    "tag": "EG-HIK-0025",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0025",
+    "date_created": "2025-09-29T07:10:09.093073"
+  },
+  {
+    "tag": "EG-HIK-0026",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0026",
+    "date_created": "2025-09-29T07:10:09.093210"
+  },
+  {
+    "tag": "EG-HIK-0027",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0027",
+    "date_created": "2025-09-29T07:10:09.093347"
+  },
+  {
+    "tag": "EG-HIK-0028",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0028",
+    "date_created": "2025-09-29T07:10:09.093479"
+  },
+  {
+    "tag": "EG-HIK-0029",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0029",
+    "date_created": "2025-09-29T07:10:09.093620"
+  },
+  {
+    "tag": "EG-HIK-0030",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0030",
+    "date_created": "2025-09-29T07:10:09.093758"
+  },
+  {
+    "tag": "EG-HIK-0031",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0031",
+    "date_created": "2025-09-29T07:10:09.093926"
+  },
+  {
+    "tag": "EG-HIK-0032",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0032",
+    "date_created": "2025-09-29T07:10:09.094064"
+  },
+  {
+    "tag": "EG-HIK-0033",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0033",
+    "date_created": "2025-09-29T07:10:09.094200"
+  },
+  {
+    "tag": "EG-HIK-0034",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0034",
+    "date_created": "2025-09-29T07:10:09.094403"
+  },
+  {
+    "tag": "EG-HIK-0035",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0035",
+    "date_created": "2025-09-29T07:10:09.094557"
+  },
+  {
+    "tag": "EG-HIK-0036",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0036",
+    "date_created": "2025-09-29T07:10:09.094709"
+  },
+  {
+    "tag": "EG-HIK-0037",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0037",
+    "date_created": "2025-09-29T07:10:09.094872"
+  },
+  {
+    "tag": "EG-HIK-0038",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0038",
+    "date_created": "2025-09-29T07:10:09.095016"
+  },
+  {
+    "tag": "EG-HIK-0039",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0039",
+    "date_created": "2025-09-29T07:10:09.095156"
+  },
+  {
+    "tag": "EG-HIK-0040",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0040",
+    "date_created": "2025-09-29T07:10:09.095306"
+  },
+  {
+    "tag": "EG-HIK-0041",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0041",
+    "date_created": "2025-09-29T07:10:09.095458"
+  },
+  {
+    "tag": "EG-HIK-0042",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0042",
+    "date_created": "2025-09-29T07:10:09.095624"
+  },
+  {
+    "tag": "EG-HIK-0043",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0043",
+    "date_created": "2025-09-29T07:10:09.095780"
+  },
+  {
+    "tag": "EG-HIK-0044",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0044",
+    "date_created": "2025-09-29T07:10:09.095948"
+  },
+  {
+    "tag": "EG-HIK-0045",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0045",
+    "date_created": "2025-09-29T07:10:09.096102"
+  },
+  {
+    "tag": "EG-HIK-0046",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0046",
+    "date_created": "2025-09-29T07:10:09.096254"
+  },
+  {
+    "tag": "EG-HIK-0047",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0047",
+    "date_created": "2025-09-29T07:10:09.096402"
+  },
+  {
+    "tag": "EG-HIK-0048",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0048",
+    "date_created": "2025-09-29T07:10:09.096595"
   }
 ]
