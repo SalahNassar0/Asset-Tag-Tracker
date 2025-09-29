@@ -7628,5 +7628,19 @@
     "manufacturer_code": "HUW",
     "name": "Asset EG-HUW-0013",
     "date_created": "2025-09-29T08:58:55.105419"
+  },
+  {
+    "tag": "EG-ZTE-0007",
+    "country_code": "EG",
+    "manufacturer_code": "ZTE",
+    "name": "Asset EG-ZTE-0007",
+    "date_created": "2025-09-29T08:59:04.041104"
+  },
+  {
+    "tag": "EG-ZTE-0008",
+    "country_code": "EG",
+    "manufacturer_code": "ZTE",
+    "name": "Asset EG-ZTE-0008",
+    "date_created": "2025-09-29T08:59:04.041333"
   }
 ]
