@@ -6382,5 +6382,12 @@
     "manufacturer_code": "ZTE",
     "name": "Asset EG-ZTE-0002",
     "date_created": "2025-09-29T07:13:43.563909"
+  },
+  {
+    "tag": "EG-LE-0164",
+    "country_code": "EG",
+    "manufacturer_code": "LE",
+    "name": "Asset EG-LE-0164",
+    "date_created": "2025-09-29T07:13:59.855582"
   }
 ]
