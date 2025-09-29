@@ -6004,5 +6004,110 @@
     "manufacturer_code": "ZE",
     "name": "Asset EG-ZE-0110",
     "date_created": "2025-09-25T13:16:27.011952"
+  },
+  {
+    "tag": "EG-HIK-0001",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0001",
+    "date_created": "2025-09-29T07:03:21.765850"
+  },
+  {
+    "tag": "EG-HIK-0002",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0002",
+    "date_created": "2025-09-29T07:03:21.765985"
+  },
+  {
+    "tag": "EG-HIK-0003",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0003",
+    "date_created": "2025-09-29T07:03:21.766102"
+  },
+  {
+    "tag": "EG-HIK-0004",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0004",
+    "date_created": "2025-09-29T07:03:21.766217"
+  },
+  {
+    "tag": "EG-HIK-0005",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0005",
+    "date_created": "2025-09-29T07:03:21.766331"
+  },
+  {
+    "tag": "EG-HIK-0006",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0006",
+    "date_created": "2025-09-29T07:03:21.766446"
+  },
+  {
+    "tag": "EG-HIK-0007",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0007",
+    "date_created": "2025-09-29T07:03:21.766561"
+  },
+  {
+    "tag": "EG-HIK-0008",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0008",
+    "date_created": "2025-09-29T07:03:21.766676"
+  },
+  {
+    "tag": "EG-HIK-0009",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0009",
+    "date_created": "2025-09-29T07:03:21.766814"
+  },
+  {
+    "tag": "EG-HIK-0010",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0010",
+    "date_created": "2025-09-29T07:03:21.766932"
+  },
+  {
+    "tag": "EG-HIK-0011",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0011",
+    "date_created": "2025-09-29T07:03:21.767050"
+  },
+  {
+    "tag": "EG-HIK-0012",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0012",
+    "date_created": "2025-09-29T07:03:21.767169"
+  },
+  {
+    "tag": "EG-HIK-0013",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0013",
+    "date_created": "2025-09-29T07:03:21.767292"
+  },
+  {
+    "tag": "EG-HIK-0014",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0014",
+    "date_created": "2025-09-29T07:03:21.767412"
+  },
+  {
+    "tag": "EG-HIK-0015",
+    "country_code": "EG",
+    "manufacturer_code": "HIK",
+    "name": "Asset EG-HIK-0015",
+    "date_created": "2025-09-29T07:03:21.767534"
   }
 ]
