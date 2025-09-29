@@ -8923,5 +8923,12 @@
     "manufacturer_code": "HUW",
     "name": "Asset EG-HUW-0016",
     "date_created": "2025-09-29T09:37:47.882063"
+  },
+  {
+    "tag": "EG-CIS-0006",
+    "country_code": "EG",
+    "manufacturer_code": "CIS",
+    "name": "Asset EG-CIS-0006",
+    "date_created": "2025-09-29T09:38:00.475089"
   }
 ]
