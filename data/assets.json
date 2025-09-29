@@ -8678,5 +8678,19 @@
     "manufacturer_code": "HIK",
     "name": "Asset EG-HIK-0306",
     "date_created": "2025-09-29T09:25:43.094012"
+  },
+  {
+    "tag": "EG-CIS-0004",
+    "country_code": "EG",
+    "manufacturer_code": "CIS",
+    "name": "Asset EG-CIS-0004",
+    "date_created": "2025-09-29T09:26:09.368691"
+  },
+  {
+    "tag": "EG-CIS-0005",
+    "country_code": "EG",
+    "manufacturer_code": "CIS",
+    "name": "Asset EG-CIS-0005",
+    "date_created": "2025-09-29T09:26:09.369022"
   }
 ]
