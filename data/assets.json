@@ -7642,5 +7642,12 @@
     "manufacturer_code": "ZTE",
     "name": "Asset EG-ZTE-0008",
     "date_created": "2025-09-29T08:59:04.041333"
+  },
+  {
+    "tag": "EG-SCH-0009",
+    "country_code": "EG",
+    "manufacturer_code": "SCH",
+    "name": "Asset EG-SCH-0009",
+    "date_created": "2025-09-29T09:00:13.053589"
   }
 ]
