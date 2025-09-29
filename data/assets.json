@@ -7047,5 +7047,19 @@
     "manufacturer_code": "CIS",
     "name": "Asset EG-CIS-0001",
     "date_created": "2025-09-29T08:45:37.074576"
+  },
+  {
+    "tag": "EG-CON-0003",
+    "country_code": "EG",
+    "manufacturer_code": "CON",
+    "name": "Asset EG-CON-0003",
+    "date_created": "2025-09-29T08:45:51.181619"
+  },
+  {
+    "tag": "EG-CON-0004",
+    "country_code": "EG",
+    "manufacturer_code": "CON",
+    "name": "Asset EG-CON-0004",
+    "date_created": "2025-09-29T08:45:51.181842"
   }
 ]
