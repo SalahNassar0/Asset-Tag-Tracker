@@ -7621,5 +7621,12 @@
     "manufacturer_code": "VE",
     "name": "Asset EG-VE-0002",
     "date_created": "2025-09-29T08:58:30.653409"
+  },
+  {
+    "tag": "EG-HUW-0013",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0013",
+    "date_created": "2025-09-29T08:58:55.105419"
   }
 ]
