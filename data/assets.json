@@ -7474,5 +7474,12 @@
     "manufacturer_code": "DL",
     "name": "Asset EG-DL-0001",
     "date_created": "2025-09-29T08:57:12.798676"
+  },
+  {
+    "tag": "EG-SCH-0008",
+    "country_code": "EG",
+    "manufacturer_code": "SCH",
+    "name": "Asset EG-SCH-0008",
+    "date_created": "2025-09-29T08:57:30.265531"
   }
 ]
