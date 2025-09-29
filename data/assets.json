@@ -6116,5 +6116,19 @@
     "manufacturer_code": "SCH",
     "name": "Asset EG-SCH-0002",
     "date_created": "2025-09-29T07:03:50.543562"
+  },
+  {
+    "tag": "EG-TOP-0001",
+    "country_code": "EG",
+    "manufacturer_code": "TOP",
+    "name": "Asset EG-TOP-0001",
+    "date_created": "2025-09-29T07:05:02.727057"
+  },
+  {
+    "tag": "EG-TOP-0002",
+    "country_code": "EG",
+    "manufacturer_code": "TOP",
+    "name": "Asset EG-TOP-0002",
+    "date_created": "2025-09-29T07:05:02.727201"
   }
 ]
