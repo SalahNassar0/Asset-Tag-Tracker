@@ -8909,5 +8909,19 @@
     "manufacturer_code": "ARM",
     "name": "Asset EG-ARM-0002",
     "date_created": "2025-09-29T09:37:13.100866"
+  },
+  {
+    "tag": "EG-HUW-0015",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0015",
+    "date_created": "2025-09-29T09:37:47.881849"
+  },
+  {
+    "tag": "EG-HUW-0016",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0016",
+    "date_created": "2025-09-29T09:37:47.882063"
   }
 ]
