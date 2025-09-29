@@ -8020,5 +8020,12 @@
     "manufacturer_code": "ZTE",
     "name": "Asset EG-ZTE-0009",
     "date_created": "2025-09-29T09:06:17.713101"
+  },
+  {
+    "tag": "EG-SOL-0001",
+    "country_code": "EG",
+    "manufacturer_code": "SOL",
+    "name": "Asset EG-SOL-0001",
+    "date_created": "2025-09-29T09:06:33.192560"
   }
 ]
