@@ -7775,5 +7775,12 @@
     "manufacturer_code": "OP",
     "name": "Asset EG-OP-0002",
     "date_created": "2025-09-29T09:03:07.747906"
+  },
+  {
+    "tag": "EG-CIS-0002",
+    "country_code": "EG",
+    "manufacturer_code": "CIS",
+    "name": "Asset EG-CIS-0002",
+    "date_created": "2025-09-29T09:03:14.791697"
   }
 ]
