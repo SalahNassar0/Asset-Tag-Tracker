@@ -8447,5 +8447,12 @@
     "manufacturer_code": "OP",
     "name": "Asset EG-OP-0004",
     "date_created": "2025-09-29T09:21:48.431342"
+  },
+  {
+    "tag": "EG-SCH-0029",
+    "country_code": "EG",
+    "manufacturer_code": "SCH",
+    "name": "Asset EG-SCH-0029",
+    "date_created": "2025-09-29T09:25:19.077314"
   }
 ]
