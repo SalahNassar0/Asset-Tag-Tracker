@@ -7061,5 +7061,12 @@
     "manufacturer_code": "CON",
     "name": "Asset EG-CON-0004",
     "date_created": "2025-09-29T08:45:51.181842"
+  },
+  {
+    "tag": "EG-SCH-0006",
+    "country_code": "EG",
+    "manufacturer_code": "SCH",
+    "name": "Asset EG-SCH-0006",
+    "date_created": "2025-09-29T08:47:04.374607"
   }
 ]
