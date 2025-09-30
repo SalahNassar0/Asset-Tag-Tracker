@@ -8930,5 +8930,19 @@
     "manufacturer_code": "CIS",
     "name": "Asset EG-CIS-0006",
     "date_created": "2025-09-29T09:38:00.475089"
+  },
+  {
+    "tag": "EG-ZTE-0012",
+    "country_code": "EG",
+    "manufacturer_code": "ZTE",
+    "name": "Asset EG-ZTE-0012",
+    "date_created": "2025-09-30T13:46:41.876254"
+  },
+  {
+    "tag": "EG-ZTE-0013",
+    "country_code": "EG",
+    "manufacturer_code": "ZTE",
+    "name": "Asset EG-ZTE-0013",
+    "date_created": "2025-09-30T13:46:41.876469"
   }
 ]
