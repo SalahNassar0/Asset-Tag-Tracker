@@ -8944,5 +8944,103 @@
     "manufacturer_code": "ZTE",
     "name": "Asset EG-ZTE-0013",
     "date_created": "2025-09-30T13:46:41.876469"
+  },
+  {
+    "tag": "EG-ZE-0111",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0111",
+    "date_created": "2025-09-30T14:22:20.574174"
+  },
+  {
+    "tag": "EG-ZE-0112",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0112",
+    "date_created": "2025-09-30T14:22:20.574418"
+  },
+  {
+    "tag": "EG-ZE-0113",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0113",
+    "date_created": "2025-09-30T14:22:20.574593"
+  },
+  {
+    "tag": "EG-ZE-0114",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0114",
+    "date_created": "2025-09-30T14:22:20.574757"
+  },
+  {
+    "tag": "EG-ZE-0115",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0115",
+    "date_created": "2025-09-30T14:22:20.574927"
+  },
+  {
+    "tag": "EG-ZE-0116",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0116",
+    "date_created": "2025-09-30T14:22:20.575093"
+  },
+  {
+    "tag": "EG-ZE-0117",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0117",
+    "date_created": "2025-09-30T14:22:20.575256"
+  },
+  {
+    "tag": "EG-ZE-0118",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0118",
+    "date_created": "2025-09-30T14:22:20.575466"
+  },
+  {
+    "tag": "EG-ZE-0119",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0119",
+    "date_created": "2025-09-30T14:22:20.575631"
+  },
+  {
+    "tag": "EG-ZE-0120",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0120",
+    "date_created": "2025-09-30T14:22:20.575799"
+  },
+  {
+    "tag": "EG-ZE-0121",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0121",
+    "date_created": "2025-09-30T14:22:20.576071"
+  },
+  {
+    "tag": "EG-ZE-0122",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0122",
+    "date_created": "2025-09-30T14:22:20.576286"
+  },
+  {
+    "tag": "EG-ZE-0123",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0123",
+    "date_created": "2025-09-30T14:22:20.576540"
+  },
+  {
+    "tag": "EG-ZE-0124",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0124",
+    "date_created": "2025-09-30T14:22:20.576763"
   }
 ]
