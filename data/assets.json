@@ -9042,5 +9042,12 @@
     "manufacturer_code": "ZE",
     "name": "Asset EG-ZE-0124",
     "date_created": "2025-09-30T14:22:20.576763"
+  },
+  {
+    "tag": "KSA-EP-0009",
+    "country_code": "KSA",
+    "manufacturer_code": "EP",
+    "name": "Asset KSA-EP-0009",
+    "date_created": "2025-10-01T09:05:34.387625"
   }
 ]
