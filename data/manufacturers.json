@@ -110,5 +110,9 @@
   {
     "code": "SN",
     "name": "Snom"
+  },
+  {
+    "code": "SNM",
+    "name": "Snom"
   }
 ]
