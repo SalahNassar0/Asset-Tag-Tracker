@@ -9147,5 +9147,40 @@
     "manufacturer_code": "SN",
     "name": "Asset KSA-SN-0001",
     "date_created": "2025-10-01T09:38:33.957684"
+  },
+  {
+    "tag": "KSA-ZE-0046",
+    "country_code": "KSA",
+    "manufacturer_code": "ZE",
+    "name": "Asset KSA-ZE-0046",
+    "date_created": "2025-10-01T09:42:05.247851"
+  },
+  {
+    "tag": "KSA-ZE-0047",
+    "country_code": "KSA",
+    "manufacturer_code": "ZE",
+    "name": "Asset KSA-ZE-0047",
+    "date_created": "2025-10-01T09:42:05.247993"
+  },
+  {
+    "tag": "KSA-ZE-0048",
+    "country_code": "KSA",
+    "manufacturer_code": "ZE",
+    "name": "Asset KSA-ZE-0048",
+    "date_created": "2025-10-01T09:42:05.248108"
+  },
+  {
+    "tag": "KSA-ZE-0049",
+    "country_code": "KSA",
+    "manufacturer_code": "ZE",
+    "name": "Asset KSA-ZE-0049",
+    "date_created": "2025-10-01T09:42:05.248219"
+  },
+  {
+    "tag": "KSA-ZE-0050",
+    "country_code": "KSA",
+    "manufacturer_code": "ZE",
+    "name": "Asset KSA-ZE-0050",
+    "date_created": "2025-10-01T09:42:05.248329"
   }
 ]
