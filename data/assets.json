@@ -9049,5 +9049,89 @@
     "manufacturer_code": "EP",
     "name": "Asset KSA-EP-0009",
     "date_created": "2025-10-01T09:05:34.387625"
+  },
+  {
+    "tag": "KSA-HIK-0217",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0217",
+    "date_created": "2025-10-01T09:11:55.853874"
+  },
+  {
+    "tag": "KSA-HIK-0218",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0218",
+    "date_created": "2025-10-01T09:11:55.854086"
+  },
+  {
+    "tag": "KSA-HIK-0219",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0219",
+    "date_created": "2025-10-01T09:11:55.854266"
+  },
+  {
+    "tag": "KSA-HIK-0220",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0220",
+    "date_created": "2025-10-01T09:11:55.854439"
+  },
+  {
+    "tag": "KSA-HIK-0221",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0221",
+    "date_created": "2025-10-01T09:11:55.854612"
+  },
+  {
+    "tag": "KSA-HIK-0222",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0222",
+    "date_created": "2025-10-01T09:11:55.854804"
+  },
+  {
+    "tag": "KSA-HIK-0223",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0223",
+    "date_created": "2025-10-01T09:11:55.854981"
+  },
+  {
+    "tag": "KSA-HIK-0224",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0224",
+    "date_created": "2025-10-01T09:11:55.855154"
+  },
+  {
+    "tag": "KSA-HIK-0225",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0225",
+    "date_created": "2025-10-01T09:11:55.855341"
+  },
+  {
+    "tag": "KSA-HIK-0226",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0226",
+    "date_created": "2025-10-01T09:11:55.855516"
+  },
+  {
+    "tag": "KSA-HIK-0227",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0227",
+    "date_created": "2025-10-01T09:11:55.855710"
+  },
+  {
+    "tag": "KSA-HIK-0228",
+    "country_code": "KSA",
+    "manufacturer_code": "HIK",
+    "name": "Asset KSA-HIK-0228",
+    "date_created": "2025-10-01T09:11:55.855887"
   }
 ]
