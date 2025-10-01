@@ -106,5 +106,9 @@
   {
     "code": "ARM",
     "name": "Armadillo"
+  },
+  {
+    "code": "SN",
+    "name": "Snom"
   }
 ]
