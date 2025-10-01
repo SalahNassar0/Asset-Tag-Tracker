@@ -9140,5 +9140,12 @@
     "manufacturer_code": "HP",
     "name": "Asset KSA-HP-0001",
     "date_created": "2025-10-01T09:35:05.910492"
+  },
+  {
+    "tag": "KSA-SN-0001",
+    "country_code": "KSA",
+    "manufacturer_code": "SN",
+    "name": "Asset KSA-SN-0001",
+    "date_created": "2025-10-01T09:38:33.957684"
   }
 ]
