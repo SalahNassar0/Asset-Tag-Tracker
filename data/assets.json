@@ -9231,5 +9231,96 @@
     "manufacturer_code": "LE",
     "name": "Asset EG-LE-0171",
     "date_created": "2025-10-06T08:52:16.685698"
+  },
+  {
+    "tag": "EG-ZE-0126",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0126",
+    "date_created": "2025-10-06T11:09:15.412997"
+  },
+  {
+    "tag": "EG-ZE-0127",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0127",
+    "date_created": "2025-10-06T11:09:15.413285"
+  },
+  {
+    "tag": "EG-ZE-0128",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0128",
+    "date_created": "2025-10-06T11:09:15.413478"
+  },
+  {
+    "tag": "EG-ZE-0129",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0129",
+    "date_created": "2025-10-06T11:09:15.413659"
+  },
+  {
+    "tag": "EG-ZE-0130",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0130",
+    "date_created": "2025-10-06T11:09:15.413826"
+  },
+  {
+    "tag": "EG-ZE-0131",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0131",
+    "date_created": "2025-10-06T11:09:15.413993"
+  },
+  {
+    "tag": "EG-ZE-0132",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0132",
+    "date_created": "2025-10-06T11:09:15.414188"
+  },
+  {
+    "tag": "EG-ZE-0133",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0133",
+    "date_created": "2025-10-06T11:09:15.414357"
+  },
+  {
+    "tag": "EG-ZE-0134",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0134",
+    "date_created": "2025-10-06T11:09:15.414539"
+  },
+  {
+    "tag": "EG-ZE-0135",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0135",
+    "date_created": "2025-10-06T11:09:15.414711"
+  },
+  {
+    "tag": "EG-ZE-0136",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0136",
+    "date_created": "2025-10-06T11:09:15.414878"
+  },
+  {
+    "tag": "EG-ZE-0137",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0137",
+    "date_created": "2025-10-06T11:09:15.415061"
+  },
+  {
+    "tag": "EG-ZE-0138",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0138",
+    "date_created": "2025-10-06T11:09:15.415346"
   }
 ]
