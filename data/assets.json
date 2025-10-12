@@ -9399,5 +9399,12 @@
     "manufacturer_code": "ZE",
     "name": "Asset EG-ZE-0143",
     "date_created": "2025-10-12T10:51:31.873277"
+  },
+  {
+    "tag": "EG-ZE-0144",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0144",
+    "date_created": "2025-10-12T10:53:13.776439"
   }
 ]
