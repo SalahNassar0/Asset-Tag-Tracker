@@ -9406,5 +9406,40 @@
     "manufacturer_code": "ZE",
     "name": "Asset EG-ZE-0144",
     "date_created": "2025-10-12T10:53:13.776439"
+  },
+  {
+    "tag": "EG-LE-0172",
+    "country_code": "EG",
+    "manufacturer_code": "LE",
+    "name": "Asset EG-LE-0172",
+    "date_created": "2025-10-12T12:36:46.286179"
+  },
+  {
+    "tag": "EG-LE-0173",
+    "country_code": "EG",
+    "manufacturer_code": "LE",
+    "name": "Asset EG-LE-0173",
+    "date_created": "2025-10-12T12:36:46.286557"
+  },
+  {
+    "tag": "EG-LE-0174",
+    "country_code": "EG",
+    "manufacturer_code": "LE",
+    "name": "Asset EG-LE-0174",
+    "date_created": "2025-10-12T12:36:46.286882"
+  },
+  {
+    "tag": "EG-LE-0175",
+    "country_code": "EG",
+    "manufacturer_code": "LE",
+    "name": "Asset EG-LE-0175",
+    "date_created": "2025-10-12T12:36:46.287180"
+  },
+  {
+    "tag": "EG-LE-0176",
+    "country_code": "EG",
+    "manufacturer_code": "LE",
+    "name": "Asset EG-LE-0176",
+    "date_created": "2025-10-12T12:36:46.287497"
   }
 ]
