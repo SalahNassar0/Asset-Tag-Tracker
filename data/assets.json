@@ -9658,5 +9658,19 @@
     "manufacturer_code": "SAM",
     "name": "Asset EG-SAM-0028",
     "date_created": "2025-10-13T15:20:59.092153"
+  },
+  {
+    "tag": "EG-OPP-0001",
+    "country_code": "EG",
+    "manufacturer_code": "OPP",
+    "name": "Asset EG-OPP-0001",
+    "date_created": "2025-10-13T15:25:05.224026"
+  },
+  {
+    "tag": "EG-OPP-0002",
+    "country_code": "EG",
+    "manufacturer_code": "OPP",
+    "name": "Asset EG-OPP-0002",
+    "date_created": "2025-10-13T15:25:05.224229"
   }
 ]
