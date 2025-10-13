@@ -9679,5 +9679,12 @@
     "manufacturer_code": "OPP",
     "name": "Asset EG-OPP-0003",
     "date_created": "2025-10-13T15:28:49.013541"
+  },
+  {
+    "tag": "EG-AP-0093",
+    "country_code": "EG",
+    "manufacturer_code": "AP",
+    "name": "Asset EG-AP-0093",
+    "date_created": "2025-10-13T15:32:20.299793"
   }
 ]
