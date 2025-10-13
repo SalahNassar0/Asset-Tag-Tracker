@@ -9728,5 +9728,12 @@
     "manufacturer_code": "AP",
     "name": "Asset EG-AP-0096",
     "date_created": "2025-10-13T15:41:25.861164"
+  },
+  {
+    "tag": "EG-XIA-0002",
+    "country_code": "EG",
+    "manufacturer_code": "XIA",
+    "name": "Asset EG-XIA-0002",
+    "date_created": "2025-10-13T15:42:49.784948"
   }
 ]
