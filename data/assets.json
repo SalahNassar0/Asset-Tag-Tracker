@@ -9714,5 +9714,12 @@
     "manufacturer_code": "HUW",
     "name": "Asset EG-HUW-0018",
     "date_created": "2025-10-13T15:34:44.729523"
+  },
+  {
+    "tag": "EG-OPP-0004",
+    "country_code": "EG",
+    "manufacturer_code": "OPP",
+    "name": "Asset EG-OPP-0004",
+    "date_created": "2025-10-13T15:39:23.976369"
   }
 ]
