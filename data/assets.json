@@ -9462,5 +9462,201 @@
     "manufacturer_code": "ZE",
     "name": "Asset EG-ZE-0145",
     "date_created": "2025-10-13T15:03:38.505353"
+  },
+  {
+    "tag": "EG-SAM-0001",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0001",
+    "date_created": "2025-10-13T15:20:59.088490"
+  },
+  {
+    "tag": "EG-SAM-0002",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0002",
+    "date_created": "2025-10-13T15:20:59.088675"
+  },
+  {
+    "tag": "EG-SAM-0003",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0003",
+    "date_created": "2025-10-13T15:20:59.088815"
+  },
+  {
+    "tag": "EG-SAM-0004",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0004",
+    "date_created": "2025-10-13T15:20:59.088944"
+  },
+  {
+    "tag": "EG-SAM-0005",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0005",
+    "date_created": "2025-10-13T15:20:59.089109"
+  },
+  {
+    "tag": "EG-SAM-0006",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0006",
+    "date_created": "2025-10-13T15:20:59.089240"
+  },
+  {
+    "tag": "EG-SAM-0007",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0007",
+    "date_created": "2025-10-13T15:20:59.089366"
+  },
+  {
+    "tag": "EG-SAM-0008",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0008",
+    "date_created": "2025-10-13T15:20:59.089490"
+  },
+  {
+    "tag": "EG-SAM-0009",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0009",
+    "date_created": "2025-10-13T15:20:59.089615"
+  },
+  {
+    "tag": "EG-SAM-0010",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0010",
+    "date_created": "2025-10-13T15:20:59.089740"
+  },
+  {
+    "tag": "EG-SAM-0011",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0011",
+    "date_created": "2025-10-13T15:20:59.089865"
+  },
+  {
+    "tag": "EG-SAM-0012",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0012",
+    "date_created": "2025-10-13T15:20:59.089997"
+  },
+  {
+    "tag": "EG-SAM-0013",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0013",
+    "date_created": "2025-10-13T15:20:59.090147"
+  },
+  {
+    "tag": "EG-SAM-0014",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0014",
+    "date_created": "2025-10-13T15:20:59.090277"
+  },
+  {
+    "tag": "EG-SAM-0015",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0015",
+    "date_created": "2025-10-13T15:20:59.090404"
+  },
+  {
+    "tag": "EG-SAM-0016",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0016",
+    "date_created": "2025-10-13T15:20:59.090531"
+  },
+  {
+    "tag": "EG-SAM-0017",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0017",
+    "date_created": "2025-10-13T15:20:59.090658"
+  },
+  {
+    "tag": "EG-SAM-0018",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0018",
+    "date_created": "2025-10-13T15:20:59.090786"
+  },
+  {
+    "tag": "EG-SAM-0019",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0019",
+    "date_created": "2025-10-13T15:20:59.090914"
+  },
+  {
+    "tag": "EG-SAM-0020",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0020",
+    "date_created": "2025-10-13T15:20:59.091047"
+  },
+  {
+    "tag": "EG-SAM-0021",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0021",
+    "date_created": "2025-10-13T15:20:59.091204"
+  },
+  {
+    "tag": "EG-SAM-0022",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0022",
+    "date_created": "2025-10-13T15:20:59.091338"
+  },
+  {
+    "tag": "EG-SAM-0023",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0023",
+    "date_created": "2025-10-13T15:20:59.091468"
+  },
+  {
+    "tag": "EG-SAM-0024",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0024",
+    "date_created": "2025-10-13T15:20:59.091599"
+  },
+  {
+    "tag": "EG-SAM-0025",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0025",
+    "date_created": "2025-10-13T15:20:59.091730"
+  },
+  {
+    "tag": "EG-SAM-0026",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0026",
+    "date_created": "2025-10-13T15:20:59.091863"
+  },
+  {
+    "tag": "EG-SAM-0027",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0027",
+    "date_created": "2025-10-13T15:20:59.091999"
+  },
+  {
+    "tag": "EG-SAM-0028",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0028",
+    "date_created": "2025-10-13T15:20:59.092153"
   }
 ]
