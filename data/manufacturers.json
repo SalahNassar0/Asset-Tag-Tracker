@@ -118,5 +118,9 @@
   {
     "code": "SAM",
     "name": "Samsung"
+  },
+  {
+    "code": "OPP",
+    "name": "OPPO"
   }
 ]
