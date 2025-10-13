@@ -9700,5 +9700,19 @@
     "manufacturer_code": "AP",
     "name": "Asset EG-AP-0095",
     "date_created": "2025-10-13T15:32:46.530110"
+  },
+  {
+    "tag": "EG-HUW-0017",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0017",
+    "date_created": "2025-10-13T15:34:44.729303"
+  },
+  {
+    "tag": "EG-HUW-0018",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0018",
+    "date_created": "2025-10-13T15:34:44.729523"
   }
 ]
