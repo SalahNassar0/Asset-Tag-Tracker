@@ -9784,5 +9784,12 @@
     "manufacturer_code": "SAM",
     "name": "Asset EG-SAM-0033",
     "date_created": "2025-10-19T15:48:22.203305"
+  },
+  {
+    "tag": "EG-ASU-0001",
+    "country_code": "EG",
+    "manufacturer_code": "ASU",
+    "name": "Asset EG-ASU-0001",
+    "date_created": "2025-10-19T16:02:47.797617"
   }
 ]
