@@ -9791,5 +9791,12 @@
     "manufacturer_code": "ASU",
     "name": "Asset EG-ASU-0001",
     "date_created": "2025-10-19T16:02:47.797617"
+  },
+  {
+    "tag": "EG-ZE-0146",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0146",
+    "date_created": "2025-10-28T20:10:07.092455"
   }
 ]
