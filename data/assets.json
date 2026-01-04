@@ -9952,5 +9952,12 @@
     "manufacturer_code": "XIA",
     "name": "Asset EG-XIA-0004",
     "date_created": "2025-12-22T14:13:55.106071"
+  },
+  {
+    "tag": "EG-LE-0191",
+    "country_code": "EG",
+    "manufacturer_code": "LE",
+    "name": "Asset EG-LE-0191",
+    "date_created": "2026-01-04T13:29:24.676008"
   }
 ]
