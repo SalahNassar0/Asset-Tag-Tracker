@@ -9966,5 +9966,40 @@
     "manufacturer_code": "XIA",
     "name": "Asset EG-XIA-0005",
     "date_created": "2026-01-20T15:33:29.092487"
+  },
+  {
+    "tag": "EG-ZE-0150",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0150",
+    "date_created": "2026-02-22T14:10:23.241805"
+  },
+  {
+    "tag": "EG-ZE-0151",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0151",
+    "date_created": "2026-02-22T14:10:23.242106"
+  },
+  {
+    "tag": "EG-ZE-0152",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0152",
+    "date_created": "2026-02-22T14:10:23.242376"
+  },
+  {
+    "tag": "EG-ZE-0153",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0153",
+    "date_created": "2026-02-22T14:10:23.246965"
+  },
+  {
+    "tag": "EG-ZE-0154",
+    "country_code": "EG",
+    "manufacturer_code": "ZE",
+    "name": "Asset EG-ZE-0154",
+    "date_created": "2026-02-22T14:10:23.248082"
   }
 ]
