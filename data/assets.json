@@ -10008,5 +10008,19 @@
     "manufacturer_code": "HUW",
     "name": "Asset EG-HUW-0019",
     "date_created": "2026-03-08T12:56:38.159326"
+  },
+  {
+    "tag": "EG-HUW-0020",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0020",
+    "date_created": "2026-03-08T12:58:49.117375"
+  },
+  {
+    "tag": "EG-HUW-0021",
+    "country_code": "EG",
+    "manufacturer_code": "HUW",
+    "name": "Asset EG-HUW-0021",
+    "date_created": "2026-03-08T12:58:49.117608"
   }
 ]
