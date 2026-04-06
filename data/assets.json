@@ -10050,5 +10050,12 @@
     "manufacturer_code": "XIA",
     "name": "Asset EG-XIA-0006",
     "date_created": "2026-04-06T14:14:39.062333"
+  },
+  {
+    "tag": "EG-SAM-0035",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0035",
+    "date_created": "2026-04-06T14:16:53.166117"
   }
 ]
