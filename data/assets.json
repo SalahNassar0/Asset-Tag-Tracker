@@ -10099,5 +10099,12 @@
     "manufacturer_code": "AP",
     "name": "Asset EG-AP-0101",
     "date_created": "2026-04-09T11:12:05.034657"
+  },
+  {
+    "tag": "EG-SAM-0036",
+    "country_code": "EG",
+    "manufacturer_code": "SAM",
+    "name": "Asset EG-SAM-0036",
+    "date_created": "2026-04-09T11:23:45.204915"
   }
 ]
