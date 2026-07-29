@@ -10113,5 +10113,19 @@
     "manufacturer_code": "LE",
     "name": "Asset EG-LE-0194",
     "date_created": "2026-06-03T10:29:40.425927"
+  },
+  {
+    "tag": "EG-DE-0003",
+    "country_code": "EG",
+    "manufacturer_code": "DE",
+    "name": "Asset EG-DE-0003",
+    "date_created": "2026-07-29T12:50:46.007227"
+  },
+  {
+    "tag": "EG-DE-0004",
+    "country_code": "EG",
+    "manufacturer_code": "DE",
+    "name": "Asset EG-DE-0004",
+    "date_created": "2026-07-29T12:50:46.007414"
   }
 ]
